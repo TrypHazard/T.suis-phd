@@ -12,7 +12,7 @@
 //        version, but has been included in this script to indicate the potential for development.
 //    3.  Microscopes must be individually calibrated. See section
 //
-Current_version = "TRIP v1.0"
+Current_version = "TRIP v1.1"
 //
 // ### PREPARATION OF IMAGE INPUT ###
 // Images must be labelled as consecutive sets (starting at 1), with a suffix designator of image type (see below), followed by .tif: 
