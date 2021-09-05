@@ -11,6 +11,7 @@
 //    2.  This macro includes sections of code written in preparation of additional functionality, which is redundant in this 
 //        version, but has been included in this script to indicate the potential for development.
 //    3.  Microscopes must be individually calibrated. See section
+//    4.  a number of image sets (up to 2/3 the total number of files in the folder) may be excluded before it starts causing problems, as the macro may fail to process all the sets in the file if numbering is random.  		
 //
 Current_version = "TRIP v1.1"
 //
@@ -24,13 +25,11 @@ Current_version = "TRIP v1.1"
 //			r	red fluorescence
 //			y	yellow fluorescence
 //
-// Sample dataset: 		1bf.tif 			1g.tif 		1h.tif
+//		Sample dataset: 	1bf.tif 		1g.tif 			1h.tif
 //					2bf.tif			2g.tif			2h.tif
 //					3bf.tif			3g.tif			3h.tif
 //
-// Note: a number of image sets (up to 2/3 the total number of files in the folder) may be excluded before it starts causing problems, as the macro may fail to process all the sets in the file if numbering is random. 
-// 
-// ##
+//
 //
 //
 //################# 1. SETTING UP #################
