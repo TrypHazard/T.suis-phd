@@ -1,7 +1,19 @@
+## INFO ##
+##########
+
+All scripts included here are presented as they were used for my PhD; as such, the file paths are not universal and will need to be modified for use. Nevertheless, I hope they are helpful!
+
+
+
 ##List of scripts and function
 
+countbases.sh                count total bases in a multi-fasta file $1(exclude header rows from count)
 get_headers_fasta.sh         Extract unique headers/geneIDs from fasta files in current directory. Outputs to headerlist_input.txt
 linearise_fasta.sh           output fasta file with sequence on one line
+mk_nucl_blastdb.fa.sh        convert all genomes in a directory in .fa format into blast databases
+mk_prot_blastdb_fa.sh        convert all genomes in a directory in .fa format into blast databases
 rm_hash_comments.sh          remove comment (hash) lines
 rm_spacers_fasta.sh          removes -- spacer lines from a linearised fasta file
 simplify_fasta_headers.sh    Remove everything after first space in header lines
+standard_blast.sh            blast input file against blast database in genomes folder
+textheadfile.sh              add string $1 to beginning of file $2
