@@ -1,0 +1,2 @@
+# using FFmpeg .mp4 to .avi
+ffmpeg -i input_file.mp4 -an -vcodec rawvideo -y output_file.avi
