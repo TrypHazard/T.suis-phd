@@ -12,6 +12,7 @@ get_headers_fasta.sh         Extract unique headers/geneIDs from fasta files in 
 linearise_fasta.sh           output fasta file with sequence on one line
 mk_nucl_blastdb.fa.sh        convert all genomes in a directory in .fa format into blast databases
 mk_prot_blastdb_fa.sh        convert all genomes in a directory in .fa format into blast databases
+promum.sh                    run protein dotplot for reference $1 against query $2 
 rm_hash_comments.sh          remove comment (hash) lines
 rm_spacers_fasta.sh          removes -- spacer lines from a linearised fasta file
 simplify_fasta_headers.sh    Remove everything after first space in header lines
