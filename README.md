@@ -10,6 +10,9 @@ I would like to thank everyone who helped me along the way, in particular all me
 
 ### In particular: 
 **Wendy Gibson**  - I could not have hoped for a more supportive, inspiring and remarkable supervisor. 
+
 **Chris Kay** - for overseeing my wobbly first steps into coding and enduring endless hours of questioning, confusion and frustration. Sir, you are a saint.
+
 **Lori Peacock** - the Queen of Tsetse. You are an absolute joy, and could always be depended on for the most enthusiastic reaction to any and all of my results!!!!!
+
 **Clare Collett** - 'Super Clare' came to my rescue on multiple occasions, and we had a right ol' laugh. 
