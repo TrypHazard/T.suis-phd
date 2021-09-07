@@ -1,0 +1,7 @@
+##List of scripts and function
+
+get_headers_fasta.sh         Extract unique headers/geneIDs from fasta files in current directory. Outputs to headerlist_input.txt
+linearise_fasta.sh           output fasta file with sequence on one line
+rm_hash_comments.sh          remove comment (hash) lines
+rm_spacers_fasta.sh          removes -- spacer lines from a linearised fasta file
+simplify_fasta_headers.sh    Remove everything after first space in header lines
